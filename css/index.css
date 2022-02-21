@@ -6369,6 +6369,9 @@ blockquote.pullquote.right {
 .aside-list img {
   object-position: 50% 8%;
 }
+#article-container figure.gallery-group {
+  width: calc(33% - 6px);
+}
 @font-face {
   font-family: 'sao-home';
   src: url("/fonts/Mam.otf");
