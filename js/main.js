@@ -1,3 +1,5 @@
+console.log('%c Power By 唯一 v' + "1.0" + ' %c https://sao-coding.github.io ', 'color: white; background: #ff9f40; padding:5px 0;', 'padding:4px;border:1px solid #ff9f40;')
+console.log("%c 不錯喔打開console 請打開上面連接多點幾次廣告 ", "color: white; background: #ff9f40; padding:5px 0;");
 document.addEventListener('DOMContentLoaded', function () {
   let blogNameWidth, menusWidth, searchWidth, $nav
   let mobileSidebarOpen = false
