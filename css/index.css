@@ -6388,6 +6388,9 @@ blockquote.pullquote.right {
     width: 100%;
   }
 }
+div.issues-api .timenode .meta p {
+  font-size: 15px;
+}
 @font-face {
   font-family: 'sao-home';
   src: url("/fonts/Mam.otf");
