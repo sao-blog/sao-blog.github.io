@@ -6372,6 +6372,11 @@ blockquote.pullquote.right {
 #article-container figure.gallery-group {
   width: calc(33% - 7px);
 }
+@media screen and (max-width: 600px) {
+  #article-container figure.gallery-group {
+    width: calc(100% - 8px);
+  }
+}
 #about img {
   width: 170px;
 }
