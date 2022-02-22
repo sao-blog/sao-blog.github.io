@@ -6370,7 +6370,7 @@ blockquote.pullquote.right {
   object-position: 50% 8%;
 }
 #article-container figure.gallery-group {
-  width: calc(33% - 6px);
+  width: calc(33% - 7px);
 }
 #about img {
   width: 170px;
