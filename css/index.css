@@ -6372,6 +6372,17 @@ blockquote.pullquote.right {
 #article-container figure.gallery-group {
   width: calc(33% - 6px);
 }
+#about img {
+  width: 170px;
+}
+#about h3 {
+  word-break: keep-all;
+}
+@media screen and (max-width: 710px) {
+  #about img {
+    width: 100%;
+  }
+}
 @font-face {
   font-family: 'sao-home';
   src: url("/fonts/Mam.otf");
