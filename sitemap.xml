@@ -138,6 +138,13 @@
 
   
   <url>
+    <loc>https://sao-coding.github.io/categories/%E5%AE%BF%E8%88%8D%E6%B4%BB%E5%8B%95/</loc>
+    <lastmod>2022-07-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://sao-coding.github.io/categories/HEXO/</loc>
     <lastmod>2022-07-28</lastmod>
     <changefreq>weekly</changefreq>
@@ -145,7 +152,7 @@
   </url>
   
   <url>
-    <loc>https://sao-coding.github.io/categories/%E5%AE%BF%E8%88%8D%E6%B4%BB%E5%8B%95/</loc>
+    <loc>https://sao-coding.github.io/categories/%E5%B7%A5%E5%85%B7/</loc>
     <lastmod>2022-07-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -160,13 +167,6 @@
   
   <url>
     <loc>https://sao-coding.github.io/categories/%E7%B7%B4%E7%BF%92%E9%A1%8C/</loc>
-    <lastmod>2022-07-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://sao-coding.github.io/categories/%E5%B7%A5%E5%85%B7/</loc>
     <lastmod>2022-07-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
