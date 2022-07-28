@@ -6,7 +6,7 @@
   <link href="https://sao-coding.github.io/atom.xml" rel="self"/>
   
   <link href="https://sao-coding.github.io/"/>
-  <updated>2022-05-13T16:25:31.000Z</updated>
+  <updated>2022-08-28T03:54:14.000Z</updated>
   <id>https://sao-coding.github.io/</id>
   
   <author>
@@ -15,6 +15,52 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>d098: Stringstream運用練習(C++)</title>
+    <link href="https://sao-coding.github.io/post/oj/zerojudge/d098/"/>
+    <id>https://sao-coding.github.io/post/oj/zerojudge/d098/</id>
+    <published>2022-08-28T03:54:14.000Z</published>
+    <updated>2022-08-28T03:54:14.000Z</updated>
+    
+    
+    <summary type="html">d098: Stringstream運用練習(C++)</summary>
+    
+    
+    
+    <category term="ZeroJudge" scheme="https://sao-coding.github.io/categories/ZeroJudge/"/>
+    
+    
+    <category term="Python" scheme="https://sao-coding.github.io/tags/Python/"/>
+    
+    <category term="解題答案" scheme="https://sao-coding.github.io/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
+    
+    <category term="ZeroJudge" scheme="https://sao-coding.github.io/tags/ZeroJudge/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>d086: 態度之重要的證明</title>
+    <link href="https://sao-coding.github.io/post/oj/zerojudge/d086/"/>
+    <id>https://sao-coding.github.io/post/oj/zerojudge/d086/</id>
+    <published>2022-08-28T02:13:27.000Z</published>
+    <updated>2022-08-28T02:13:27.000Z</updated>
+    
+    
+    <summary type="html">d086: 態度之重要的證明</summary>
+    
+    
+    
+    <category term="ZeroJudge" scheme="https://sao-coding.github.io/categories/ZeroJudge/"/>
+    
+    
+    <category term="Python" scheme="https://sao-coding.github.io/tags/Python/"/>
+    
+    <category term="解題答案" scheme="https://sao-coding.github.io/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
+    
+    <category term="ZeroJudge" scheme="https://sao-coding.github.io/tags/ZeroJudge/"/>
+    
+  </entry>
   
   <entry>
     <title>宿舍-關於我們檔案</title>
@@ -55,6 +101,52 @@
   </entry>
   
   <entry>
+    <title>b759: 我明明就有說過= =</title>
+    <link href="https://sao-coding.github.io/post/oj/zerojudge/b759/"/>
+    <id>https://sao-coding.github.io/post/oj/zerojudge/b759/</id>
+    <published>2022-04-06T14:52:31.000Z</published>
+    <updated>2022-04-06T14:52:31.000Z</updated>
+    
+    
+    <summary type="html">b759: 我明明就有說過= =</summary>
+    
+    
+    
+    <category term="ZeroJudge" scheme="https://sao-coding.github.io/categories/ZeroJudge/"/>
+    
+    
+    <category term="Python" scheme="https://sao-coding.github.io/tags/Python/"/>
+    
+    <category term="解題答案" scheme="https://sao-coding.github.io/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
+    
+    <category term="ZeroJudge" scheme="https://sao-coding.github.io/tags/ZeroJudge/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>b758: 牛仔(ㄗˇ)很忙</title>
+    <link href="https://sao-coding.github.io/post/oj/zerojudge/b758/"/>
+    <id>https://sao-coding.github.io/post/oj/zerojudge/b758/</id>
+    <published>2022-04-01T13:12:36.000Z</published>
+    <updated>2022-04-01T13:12:36.000Z</updated>
+    
+    
+    <summary type="html">b758: 牛仔(ㄗˇ)很忙</summary>
+    
+    
+    
+    <category term="ZeroJudge" scheme="https://sao-coding.github.io/categories/ZeroJudge/"/>
+    
+    
+    <category term="Python" scheme="https://sao-coding.github.io/tags/Python/"/>
+    
+    <category term="解題答案" scheme="https://sao-coding.github.io/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
+    
+    <category term="ZeroJudge" scheme="https://sao-coding.github.io/tags/ZeroJudge/"/>
+    
+  </entry>
+  
+  <entry>
     <title>在 Word 插入程式碼區塊</title>
     <link href="https://sao-coding.github.io/post/tool/word-mdeditor/"/>
     <id>https://sao-coding.github.io/post/tool/word-mdeditor/</id>
@@ -68,6 +160,75 @@
     
     <category term="工具" scheme="https://sao-coding.github.io/categories/%E5%B7%A5%E5%85%B7/"/>
     
+    
+  </entry>
+  
+  <entry>
+    <title>b572: 忘了東西的傑克</title>
+    <link href="https://sao-coding.github.io/post/oj/zerojudge/b572/"/>
+    <id>https://sao-coding.github.io/post/oj/zerojudge/b572/</id>
+    <published>2022-03-25T10:50:50.000Z</published>
+    <updated>2022-03-25T10:50:50.000Z</updated>
+    
+    
+    <summary type="html">b572: 忘了東西的傑克</summary>
+    
+    
+    
+    <category term="ZeroJudge" scheme="https://sao-coding.github.io/categories/ZeroJudge/"/>
+    
+    
+    <category term="Python" scheme="https://sao-coding.github.io/tags/Python/"/>
+    
+    <category term="解題答案" scheme="https://sao-coding.github.io/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
+    
+    <category term="ZeroJudge" scheme="https://sao-coding.github.io/tags/ZeroJudge/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>b294: 經濟大恐荒</title>
+    <link href="https://sao-coding.github.io/post/oj/zerojudge/b294/"/>
+    <id>https://sao-coding.github.io/post/oj/zerojudge/b294/</id>
+    <published>2022-03-25T02:45:23.000Z</published>
+    <updated>2022-03-25T02:45:23.000Z</updated>
+    
+    
+    <summary type="html">b294: 經濟大恐荒</summary>
+    
+    
+    
+    <category term="ZeroJudge" scheme="https://sao-coding.github.io/categories/ZeroJudge/"/>
+    
+    
+    <category term="Python" scheme="https://sao-coding.github.io/tags/Python/"/>
+    
+    <category term="解題答案" scheme="https://sao-coding.github.io/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
+    
+    <category term="ZeroJudge" scheme="https://sao-coding.github.io/tags/ZeroJudge/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>b558: 求數列第 n 項</title>
+    <link href="https://sao-coding.github.io/post/oj/zerojudge/b558/"/>
+    <id>https://sao-coding.github.io/post/oj/zerojudge/b558/</id>
+    <published>2022-03-19T03:45:23.000Z</published>
+    <updated>2022-03-19T03:45:23.000Z</updated>
+    
+    
+    <summary type="html">b558: 求數列第 n 項</summary>
+    
+    
+    
+    <category term="ZeroJudge" scheme="https://sao-coding.github.io/categories/ZeroJudge/"/>
+    
+    
+    <category term="Python" scheme="https://sao-coding.github.io/tags/Python/"/>
+    
+    <category term="解題答案" scheme="https://sao-coding.github.io/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
+    
+    <category term="ZeroJudge" scheme="https://sao-coding.github.io/tags/ZeroJudge/"/>
     
   </entry>
   
@@ -87,6 +248,763 @@
     
     
     <category term="機械式鍵盤" scheme="https://sao-coding.github.io/tags/%E6%A9%9F%E6%A2%B0%E5%BC%8F%E9%8D%B5%E7%9B%A4/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>a915: 二维点排序</title>
+    <link href="https://sao-coding.github.io/post/oj/zerojudge/a915/"/>
+    <id>https://sao-coding.github.io/post/oj/zerojudge/a915/</id>
+    <published>2022-03-03T02:45:23.000Z</published>
+    <updated>2022-03-03T02:45:23.000Z</updated>
+    
+    
+    <summary type="html">a915: 二维点排序</summary>
+    
+    
+    
+    <category term="ZeroJudge" scheme="https://sao-coding.github.io/categories/ZeroJudge/"/>
+    
+    
+    <category term="Python" scheme="https://sao-coding.github.io/tags/Python/"/>
+    
+    <category term="解題答案" scheme="https://sao-coding.github.io/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
+    
+    <category term="ZeroJudge" scheme="https://sao-coding.github.io/tags/ZeroJudge/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>a799: 正值國</title>
+    <link href="https://sao-coding.github.io/post/oj/zerojudge/a799/"/>
+    <id>https://sao-coding.github.io/post/oj/zerojudge/a799/</id>
+    <published>2022-03-02T00:15:53.000Z</published>
+    <updated>2022-03-02T00:15:53.000Z</updated>
+    
+    
+    <summary type="html">a799: 正值國</summary>
+    
+    
+    
+    <category term="ZeroJudge" scheme="https://sao-coding.github.io/categories/ZeroJudge/"/>
+    
+    
+    <category term="Python" scheme="https://sao-coding.github.io/tags/Python/"/>
+    
+    <category term="解題答案" scheme="https://sao-coding.github.io/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
+    
+    <category term="ZeroJudge" scheme="https://sao-coding.github.io/tags/ZeroJudge/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>a738: 最大公约数</title>
+    <link href="https://sao-coding.github.io/post/oj/zerojudge/a738/"/>
+    <id>https://sao-coding.github.io/post/oj/zerojudge/a738/</id>
+    <published>2022-03-01T00:15:53.000Z</published>
+    <updated>2022-03-01T00:15:53.000Z</updated>
+    
+    
+    <summary type="html">a738: 最大公约数</summary>
+    
+    
+    
+    <category term="ZeroJudge" scheme="https://sao-coding.github.io/categories/ZeroJudge/"/>
+    
+    
+    <category term="Python" scheme="https://sao-coding.github.io/tags/Python/"/>
+    
+    <category term="解題答案" scheme="https://sao-coding.github.io/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
+    
+    <category term="ZeroJudge" scheme="https://sao-coding.github.io/tags/ZeroJudge/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>a528: 大數排序</title>
+    <link href="https://sao-coding.github.io/post/oj/zerojudge/a528/"/>
+    <id>https://sao-coding.github.io/post/oj/zerojudge/a528/</id>
+    <published>2022-02-27T23:15:53.000Z</published>
+    <updated>2022-02-27T23:15:53.000Z</updated>
+    
+    
+    <summary type="html">a528: 大數排序</summary>
+    
+    
+    
+    <category term="ZeroJudge" scheme="https://sao-coding.github.io/categories/ZeroJudge/"/>
+    
+    
+    <category term="Python" scheme="https://sao-coding.github.io/tags/Python/"/>
+    
+    <category term="解題答案" scheme="https://sao-coding.github.io/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
+    
+    <category term="ZeroJudge" scheme="https://sao-coding.github.io/tags/ZeroJudge/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>a263: 日期差幾天</title>
+    <link href="https://sao-coding.github.io/post/oj/zerojudge/a263/"/>
+    <id>https://sao-coding.github.io/post/oj/zerojudge/a263/</id>
+    <published>2022-02-27T09:15:03.000Z</published>
+    <updated>2022-02-27T09:15:03.000Z</updated>
+    
+    
+    <summary type="html">a263: 日期差幾天</summary>
+    
+    
+    
+    <category term="ZeroJudge" scheme="https://sao-coding.github.io/categories/ZeroJudge/"/>
+    
+    
+    <category term="Python" scheme="https://sao-coding.github.io/tags/Python/"/>
+    
+    <category term="解題答案" scheme="https://sao-coding.github.io/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
+    
+    <category term="ZeroJudge" scheme="https://sao-coding.github.io/tags/ZeroJudge/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>a244: 新手訓練 ~ for + if</title>
+    <link href="https://sao-coding.github.io/post/oj/zerojudge/a244/"/>
+    <id>https://sao-coding.github.io/post/oj/zerojudge/a244/</id>
+    <published>2022-02-26T09:15:03.000Z</published>
+    <updated>2022-02-26T09:15:03.000Z</updated>
+    
+    
+    <summary type="html">a244: 新手訓練 ~ for + if</summary>
+    
+    
+    
+    <category term="ZeroJudge" scheme="https://sao-coding.github.io/categories/ZeroJudge/"/>
+    
+    
+    <category term="Python" scheme="https://sao-coding.github.io/tags/Python/"/>
+    
+    <category term="解題答案" scheme="https://sao-coding.github.io/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
+    
+    <category term="ZeroJudge" scheme="https://sao-coding.github.io/tags/ZeroJudge/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>a215: 明明愛數數</title>
+    <link href="https://sao-coding.github.io/post/oj/zerojudge/a215/"/>
+    <id>https://sao-coding.github.io/post/oj/zerojudge/a215/</id>
+    <published>2022-02-25T09:15:03.000Z</published>
+    <updated>2022-02-25T09:15:03.000Z</updated>
+    
+    
+    <summary type="html">a215: 明明愛數數</summary>
+    
+    
+    
+    <category term="ZeroJudge" scheme="https://sao-coding.github.io/categories/ZeroJudge/"/>
+    
+    
+    <category term="Python" scheme="https://sao-coding.github.io/tags/Python/"/>
+    
+    <category term="解題答案" scheme="https://sao-coding.github.io/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
+    
+    <category term="ZeroJudge" scheme="https://sao-coding.github.io/tags/ZeroJudge/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>a149: 乘乘樂</title>
+    <link href="https://sao-coding.github.io/post/oj/zerojudge/a149/"/>
+    <id>https://sao-coding.github.io/post/oj/zerojudge/a149/</id>
+    <published>2022-02-24T09:15:03.000Z</published>
+    <updated>2022-02-24T09:15:03.000Z</updated>
+    
+    
+    <summary type="html">a149: 乘乘樂</summary>
+    
+    
+    
+    <category term="ZeroJudge" scheme="https://sao-coding.github.io/categories/ZeroJudge/"/>
+    
+    
+    <category term="Python" scheme="https://sao-coding.github.io/tags/Python/"/>
+    
+    <category term="解題答案" scheme="https://sao-coding.github.io/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
+    
+    <category term="ZeroJudge" scheme="https://sao-coding.github.io/tags/ZeroJudge/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>a148: You Cannot Pass?!</title>
+    <link href="https://sao-coding.github.io/post/oj/zerojudge/a148/"/>
+    <id>https://sao-coding.github.io/post/oj/zerojudge/a148/</id>
+    <published>2022-02-23T10:15:03.000Z</published>
+    <updated>2022-02-23T10:15:03.000Z</updated>
+    
+    
+    <summary type="html">a148: You Cannot Pass?!</summary>
+    
+    
+    
+    <category term="ZeroJudge" scheme="https://sao-coding.github.io/categories/ZeroJudge/"/>
+    
+    
+    <category term="Python" scheme="https://sao-coding.github.io/tags/Python/"/>
+    
+    <category term="解題答案" scheme="https://sao-coding.github.io/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
+    
+    <category term="ZeroJudge" scheme="https://sao-coding.github.io/tags/ZeroJudge/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>a147: Print it all</title>
+    <link href="https://sao-coding.github.io/post/oj/zerojudge/a147/"/>
+    <id>https://sao-coding.github.io/post/oj/zerojudge/a147/</id>
+    <published>2022-02-22T03:15:03.000Z</published>
+    <updated>2022-02-22T03:15:03.000Z</updated>
+    
+    
+    <summary type="html">a147: Print it all</summary>
+    
+    
+    
+    <category term="ZeroJudge" scheme="https://sao-coding.github.io/categories/ZeroJudge/"/>
+    
+    
+    <category term="Python" scheme="https://sao-coding.github.io/tags/Python/"/>
+    
+    <category term="解題答案" scheme="https://sao-coding.github.io/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
+    
+    <category term="ZeroJudge" scheme="https://sao-coding.github.io/tags/ZeroJudge/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>a104: 排序</title>
+    <link href="https://sao-coding.github.io/post/oj/zerojudge/a104/"/>
+    <id>https://sao-coding.github.io/post/oj/zerojudge/a104/</id>
+    <published>2022-02-21T03:15:03.000Z</published>
+    <updated>2022-02-21T03:15:03.000Z</updated>
+    
+    
+    <summary type="html">a104: 排序</summary>
+    
+    
+    
+    <category term="ZeroJudge" scheme="https://sao-coding.github.io/categories/ZeroJudge/"/>
+    
+    
+    <category term="Python" scheme="https://sao-coding.github.io/tags/Python/"/>
+    
+    <category term="解題答案" scheme="https://sao-coding.github.io/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
+    
+    <category term="ZeroJudge" scheme="https://sao-coding.github.io/tags/ZeroJudge/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>a065: 提款卡密碼</title>
+    <link href="https://sao-coding.github.io/post/oj/zerojudge/a065/"/>
+    <id>https://sao-coding.github.io/post/oj/zerojudge/a065/</id>
+    <published>2022-02-20T03:15:03.000Z</published>
+    <updated>2022-02-20T03:15:03.000Z</updated>
+    
+    
+    <summary type="html">a065: 提款卡密碼</summary>
+    
+    
+    
+    <category term="ZeroJudge" scheme="https://sao-coding.github.io/categories/ZeroJudge/"/>
+    
+    
+    <category term="Python" scheme="https://sao-coding.github.io/tags/Python/"/>
+    
+    <category term="解題答案" scheme="https://sao-coding.github.io/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
+    
+    <category term="ZeroJudge" scheme="https://sao-coding.github.io/tags/ZeroJudge/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>a059: 完全平方和</title>
+    <link href="https://sao-coding.github.io/post/oj/zerojudge/a059/"/>
+    <id>https://sao-coding.github.io/post/oj/zerojudge/a059/</id>
+    <published>2022-02-19T14:15:03.000Z</published>
+    <updated>2022-02-19T14:15:03.000Z</updated>
+    
+    
+    <summary type="html">a059: 完全平方和</summary>
+    
+    
+    
+    <category term="ZeroJudge" scheme="https://sao-coding.github.io/categories/ZeroJudge/"/>
+    
+    
+    <category term="Python" scheme="https://sao-coding.github.io/tags/Python/"/>
+    
+    <category term="解題答案" scheme="https://sao-coding.github.io/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
+    
+    <category term="ZeroJudge" scheme="https://sao-coding.github.io/tags/ZeroJudge/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>a058: MOD3</title>
+    <link href="https://sao-coding.github.io/post/oj/zerojudge/a058/"/>
+    <id>https://sao-coding.github.io/post/oj/zerojudge/a058/</id>
+    <published>2022-02-18T00:15:03.000Z</published>
+    <updated>2022-02-18T00:15:03.000Z</updated>
+    
+    
+    <summary type="html">a058: MOD3</summary>
+    
+    
+    
+    <category term="ZeroJudge" scheme="https://sao-coding.github.io/categories/ZeroJudge/"/>
+    
+    
+    <category term="Python" scheme="https://sao-coding.github.io/tags/Python/"/>
+    
+    <category term="解題答案" scheme="https://sao-coding.github.io/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
+    
+    <category term="ZeroJudge" scheme="https://sao-coding.github.io/tags/ZeroJudge/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>a053: Sagits 計分程式</title>
+    <link href="https://sao-coding.github.io/post/oj/zerojudge/a053/"/>
+    <id>https://sao-coding.github.io/post/oj/zerojudge/a053/</id>
+    <published>2022-02-17T07:15:03.000Z</published>
+    <updated>2022-02-17T07:15:03.000Z</updated>
+    
+    
+    <summary type="html">a053: Sagits 計分程式</summary>
+    
+    
+    
+    <category term="ZeroJudge" scheme="https://sao-coding.github.io/categories/ZeroJudge/"/>
+    
+    
+    <category term="Python" scheme="https://sao-coding.github.io/tags/Python/"/>
+    
+    <category term="解題答案" scheme="https://sao-coding.github.io/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
+    
+    <category term="ZeroJudge" scheme="https://sao-coding.github.io/tags/ZeroJudge/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>a038: 數字翻轉</title>
+    <link href="https://sao-coding.github.io/post/oj/zerojudge/a038/"/>
+    <id>https://sao-coding.github.io/post/oj/zerojudge/a038/</id>
+    <published>2022-02-16T10:15:03.000Z</published>
+    <updated>2022-02-16T10:15:03.000Z</updated>
+    
+    
+    <summary type="html">a038: 數字翻轉</summary>
+    
+    
+    
+    <category term="ZeroJudge" scheme="https://sao-coding.github.io/categories/ZeroJudge/"/>
+    
+    
+    <category term="Python" scheme="https://sao-coding.github.io/tags/Python/"/>
+    
+    <category term="解題答案" scheme="https://sao-coding.github.io/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
+    
+    <category term="ZeroJudge" scheme="https://sao-coding.github.io/tags/ZeroJudge/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>a034: 二進位制轉換</title>
+    <link href="https://sao-coding.github.io/post/oj/zerojudge/a034/"/>
+    <id>https://sao-coding.github.io/post/oj/zerojudge/a034/</id>
+    <published>2022-02-15T10:15:03.000Z</published>
+    <updated>2022-02-15T10:15:03.000Z</updated>
+    
+    
+    <summary type="html">a034: 二進位制轉換</summary>
+    
+    
+    
+    <category term="ZeroJudge" scheme="https://sao-coding.github.io/categories/ZeroJudge/"/>
+    
+    
+    <category term="Python" scheme="https://sao-coding.github.io/tags/Python/"/>
+    
+    <category term="解題答案" scheme="https://sao-coding.github.io/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
+    
+    <category term="ZeroJudge" scheme="https://sao-coding.github.io/tags/ZeroJudge/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>a024: 最大公因數(GCD)</title>
+    <link href="https://sao-coding.github.io/post/oj/zerojudge/a024/"/>
+    <id>https://sao-coding.github.io/post/oj/zerojudge/a024/</id>
+    <published>2022-02-14T10:15:03.000Z</published>
+    <updated>2022-02-14T10:15:03.000Z</updated>
+    
+    
+    <summary type="html">a024: 最大公因數(GCD)</summary>
+    
+    
+    
+    <category term="ZeroJudge" scheme="https://sao-coding.github.io/categories/ZeroJudge/"/>
+    
+    
+    <category term="Python" scheme="https://sao-coding.github.io/tags/Python/"/>
+    
+    <category term="解題答案" scheme="https://sao-coding.github.io/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
+    
+    <category term="ZeroJudge" scheme="https://sao-coding.github.io/tags/ZeroJudge/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>a022: 迴文</title>
+    <link href="https://sao-coding.github.io/post/oj/zerojudge/a022/"/>
+    <id>https://sao-coding.github.io/post/oj/zerojudge/a022/</id>
+    <published>2022-02-13T10:15:03.000Z</published>
+    <updated>2022-02-13T10:15:03.000Z</updated>
+    
+    
+    <summary type="html">a022: 迴文</summary>
+    
+    
+    
+    <category term="ZeroJudge" scheme="https://sao-coding.github.io/categories/ZeroJudge/"/>
+    
+    
+    <category term="Python" scheme="https://sao-coding.github.io/tags/Python/"/>
+    
+    <category term="解題答案" scheme="https://sao-coding.github.io/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
+    
+    <category term="ZeroJudge" scheme="https://sao-coding.github.io/tags/ZeroJudge/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>a021: 大數運算</title>
+    <link href="https://sao-coding.github.io/post/oj/zerojudge/a021/"/>
+    <id>https://sao-coding.github.io/post/oj/zerojudge/a021/</id>
+    <published>2022-02-12T10:15:03.000Z</published>
+    <updated>2022-02-12T10:15:03.000Z</updated>
+    
+    
+    <summary type="html">a021: 大數運算</summary>
+    
+    
+    
+    <category term="ZeroJudge" scheme="https://sao-coding.github.io/categories/ZeroJudge/"/>
+    
+    
+    <category term="Python" scheme="https://sao-coding.github.io/tags/Python/"/>
+    
+    <category term="解題答案" scheme="https://sao-coding.github.io/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
+    
+    <category term="ZeroJudge" scheme="https://sao-coding.github.io/tags/ZeroJudge/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>a020: 身分證檢驗</title>
+    <link href="https://sao-coding.github.io/post/oj/zerojudge/a020/"/>
+    <id>https://sao-coding.github.io/post/oj/zerojudge/a020/</id>
+    <published>2022-02-11T10:15:03.000Z</published>
+    <updated>2022-02-11T10:15:03.000Z</updated>
+    
+    
+    <summary type="html">a020: 身分證檢驗</summary>
+    
+    
+    
+    <category term="ZeroJudge" scheme="https://sao-coding.github.io/categories/ZeroJudge/"/>
+    
+    
+    <category term="Python" scheme="https://sao-coding.github.io/tags/Python/"/>
+    
+    <category term="解題答案" scheme="https://sao-coding.github.io/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
+    
+    <category term="ZeroJudge" scheme="https://sao-coding.github.io/tags/ZeroJudge/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>a017: 五則運算</title>
+    <link href="https://sao-coding.github.io/post/oj/zerojudge/a017/"/>
+    <id>https://sao-coding.github.io/post/oj/zerojudge/a017/</id>
+    <published>2022-02-10T10:15:03.000Z</published>
+    <updated>2022-02-10T10:15:03.000Z</updated>
+    
+    
+    <summary type="html">a017: 五則運算</summary>
+    
+    
+    
+    <category term="ZeroJudge" scheme="https://sao-coding.github.io/categories/ZeroJudge/"/>
+    
+    
+    <category term="Python" scheme="https://sao-coding.github.io/tags/Python/"/>
+    
+    <category term="解題答案" scheme="https://sao-coding.github.io/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
+    
+    <category term="ZeroJudge" scheme="https://sao-coding.github.io/tags/ZeroJudge/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>a015: 矩陣的翻轉</title>
+    <link href="https://sao-coding.github.io/post/oj/zerojudge/a015/"/>
+    <id>https://sao-coding.github.io/post/oj/zerojudge/a015/</id>
+    <published>2022-02-09T10:15:03.000Z</published>
+    <updated>2022-02-09T10:15:03.000Z</updated>
+    
+    
+    <summary type="html">a015: 矩陣的翻轉</summary>
+    
+    
+    
+    <category term="ZeroJudge" scheme="https://sao-coding.github.io/categories/ZeroJudge/"/>
+    
+    
+    <category term="Python" scheme="https://sao-coding.github.io/tags/Python/"/>
+    
+    <category term="解題答案" scheme="https://sao-coding.github.io/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
+    
+    <category term="ZeroJudge" scheme="https://sao-coding.github.io/tags/ZeroJudge/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>a010: 因數分解</title>
+    <link href="https://sao-coding.github.io/post/oj/zerojudge/a010/"/>
+    <id>https://sao-coding.github.io/post/oj/zerojudge/a010/</id>
+    <published>2022-02-08T10:15:03.000Z</published>
+    <updated>2022-02-08T10:15:03.000Z</updated>
+    
+    
+    <summary type="html">a010: 因數分解</summary>
+    
+    
+    
+    <category term="ZeroJudge" scheme="https://sao-coding.github.io/categories/ZeroJudge/"/>
+    
+    
+    <category term="Python" scheme="https://sao-coding.github.io/tags/Python/"/>
+    
+    <category term="解題答案" scheme="https://sao-coding.github.io/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
+    
+    <category term="ZeroJudge" scheme="https://sao-coding.github.io/tags/ZeroJudge/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>a009: 解碼器</title>
+    <link href="https://sao-coding.github.io/post/oj/zerojudge/a009/"/>
+    <id>https://sao-coding.github.io/post/oj/zerojudge/a009/</id>
+    <published>2022-02-07T10:15:03.000Z</published>
+    <updated>2022-02-07T10:15:03.000Z</updated>
+    
+    
+    <summary type="html">a009: 解碼器</summary>
+    
+    
+    
+    <category term="ZeroJudge" scheme="https://sao-coding.github.io/categories/ZeroJudge/"/>
+    
+    
+    <category term="Python" scheme="https://sao-coding.github.io/tags/Python/"/>
+    
+    <category term="解題答案" scheme="https://sao-coding.github.io/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
+    
+    <category term="ZeroJudge" scheme="https://sao-coding.github.io/tags/ZeroJudge/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>a006: 一元二次方程式</title>
+    <link href="https://sao-coding.github.io/post/oj/zerojudge/a006/"/>
+    <id>https://sao-coding.github.io/post/oj/zerojudge/a006/</id>
+    <published>2022-02-06T04:40:03.000Z</published>
+    <updated>2022-02-06T04:40:03.000Z</updated>
+    
+    
+    <summary type="html">a006: 一元二次方程式</summary>
+    
+    
+    
+    <category term="ZeroJudge" scheme="https://sao-coding.github.io/categories/ZeroJudge/"/>
+    
+    
+    <category term="Python" scheme="https://sao-coding.github.io/tags/Python/"/>
+    
+    <category term="解題答案" scheme="https://sao-coding.github.io/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
+    
+    <category term="ZeroJudge" scheme="https://sao-coding.github.io/tags/ZeroJudge/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>a005: Eva 的回家作業</title>
+    <link href="https://sao-coding.github.io/post/oj/zerojudge/a005/"/>
+    <id>https://sao-coding.github.io/post/oj/zerojudge/a005/</id>
+    <published>2022-02-05T04:40:03.000Z</published>
+    <updated>2022-02-05T04:40:03.000Z</updated>
+    
+    
+    <summary type="html">a005: Eva 的回家作業</summary>
+    
+    
+    
+    <category term="ZeroJudge" scheme="https://sao-coding.github.io/categories/ZeroJudge/"/>
+    
+    
+    <category term="Python" scheme="https://sao-coding.github.io/tags/Python/"/>
+    
+    <category term="解題答案" scheme="https://sao-coding.github.io/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
+    
+    <category term="ZeroJudge" scheme="https://sao-coding.github.io/tags/ZeroJudge/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>a004. 文文的求婚</title>
+    <link href="https://sao-coding.github.io/post/oj/zerojudge/a004/"/>
+    <id>https://sao-coding.github.io/post/oj/zerojudge/a004/</id>
+    <published>2022-02-03T21:40:00.000Z</published>
+    <updated>2022-02-03T21:40:00.000Z</updated>
+    
+    
+    <summary type="html">a004. 文文的求婚</summary>
+    
+    
+    
+    <category term="ZeroJudge" scheme="https://sao-coding.github.io/categories/ZeroJudge/"/>
+    
+    
+    <category term="Python" scheme="https://sao-coding.github.io/tags/Python/"/>
+    
+    <category term="解題答案" scheme="https://sao-coding.github.io/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
+    
+    <category term="ZeroJudge" scheme="https://sao-coding.github.io/tags/ZeroJudge/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>a003: 兩光法師占卜術</title>
+    <link href="https://sao-coding.github.io/post/oj/zerojudge/a003/"/>
+    <id>https://sao-coding.github.io/post/oj/zerojudge/a003/</id>
+    <published>2022-02-02T21:38:00.000Z</published>
+    <updated>2022-02-02T21:38:00.000Z</updated>
+    
+    
+    <summary type="html">a003: 兩光法師占卜術</summary>
+    
+    
+    
+    <category term="ZeroJudge" scheme="https://sao-coding.github.io/categories/ZeroJudge/"/>
+    
+    
+    <category term="Python" scheme="https://sao-coding.github.io/tags/Python/"/>
+    
+    <category term="解題答案" scheme="https://sao-coding.github.io/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
+    
+    <category term="ZeroJudge" scheme="https://sao-coding.github.io/tags/ZeroJudge/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>a002: 簡易加法</title>
+    <link href="https://sao-coding.github.io/post/oj/zerojudge/a002/"/>
+    <id>https://sao-coding.github.io/post/oj/zerojudge/a002/</id>
+    <published>2022-02-01T21:33:00.000Z</published>
+    <updated>2022-02-01T21:33:00.000Z</updated>
+    
+    
+    <summary type="html">a002: 簡易加法</summary>
+    
+    
+    
+    <category term="ZeroJudge" scheme="https://sao-coding.github.io/categories/ZeroJudge/"/>
+    
+    
+    <category term="Python" scheme="https://sao-coding.github.io/tags/Python/"/>
+    
+    <category term="解題答案" scheme="https://sao-coding.github.io/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
+    
+    <category term="ZeroJudge" scheme="https://sao-coding.github.io/tags/ZeroJudge/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>a001: 哈囉</title>
+    <link href="https://sao-coding.github.io/post/oj/zerojudge/a001/"/>
+    <id>https://sao-coding.github.io/post/oj/zerojudge/a001/</id>
+    <published>2022-02-01T04:30:00.000Z</published>
+    <updated>2022-04-08T04:00:00.000Z</updated>
+    
+    
+    <summary type="html">a001: 哈囉</summary>
+    
+    
+    
+    <category term="ZeroJudge" scheme="https://sao-coding.github.io/categories/ZeroJudge/"/>
+    
+    
+    <category term="Python" scheme="https://sao-coding.github.io/tags/Python/"/>
+    
+    <category term="解題答案" scheme="https://sao-coding.github.io/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
+    
+    <category term="ZeroJudge" scheme="https://sao-coding.github.io/tags/ZeroJudge/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>1. Two Sum</title>
+    <link href="https://sao-coding.github.io/post/oj/leetcode/1.%20Two%20Sum/"/>
+    <id>https://sao-coding.github.io/post/oj/leetcode/1.%20Two%20Sum/</id>
+    <published>2022-01-30T17:36:00.000Z</published>
+    <updated>2022-01-30T17:36:00.000Z</updated>
+    
+    
+    <summary type="html">1. Two Sum</summary>
+    
+    
+    
+    <category term="LeetCode" scheme="https://sao-coding.github.io/categories/LeetCode/"/>
+    
+    
+    <category term="Python" scheme="https://sao-coding.github.io/tags/Python/"/>
+    
+    <category term="解題答案" scheme="https://sao-coding.github.io/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
+    
+    <category term="LeetCode" scheme="https://sao-coding.github.io/tags/LeetCode/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>文章封面照片位置</title>
+    <link href="https://sao-coding.github.io/post/cover/"/>
+    <id>https://sao-coding.github.io/post/cover/</id>
+    <published>2022-01-30T13:33:31.000Z</published>
+    <updated>2022-01-30T13:33:31.000Z</updated>
+    
+    
+    <summary type="html">修改文章封面照片位置</summary>
+    
+    
+    
+    <category term="HEXO" scheme="https://sao-coding.github.io/categories/HEXO/"/>
+    
+    
+    <category term="HEXO" scheme="https://sao-coding.github.io/tags/HEXO/"/>
+    
+    <category term="🦋 Butterfly" scheme="https://sao-coding.github.io/tags/%F0%9F%A6%8B-Butterfly/"/>
     
   </entry>
   

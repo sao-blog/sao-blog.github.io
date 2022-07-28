@@ -6,4 +6,4 @@ Allow: /categories/
 Allow: /tags/
 Disallow: /js/
 Allow: /css/
-Sitemap: https://sao-coding.github.io/sitemap.xml
+Sitemap: https://blog.sao-x.com/sitemap.xml
